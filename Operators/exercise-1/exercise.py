@@ -1,1 +1,1 @@
-print(False ... True) # Should print False
+print(False * True) # Should print False
